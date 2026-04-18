@@ -1,0 +1,35 @@
+[Sat Jun 21 11:57:34.777382 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 11:58:34.779993 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:00:08.375879 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:04:34.937901 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:09:35.597671 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:10:35.116104 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:44:36.648112 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 12:46:36.679613 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 13:00:11.798450 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 13:33:30.736603 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 14:00:08.927812 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 14:42:42.126128 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 14:54:42.702153 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 14:57:42.610262 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 15:01:42.664191 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 15:04:42.970750 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 15:05:35.380132 2025] [authz_core:error] [pid 3257328:tid 3257964] [client 164.92.244.132:34750] AH01630: client denied by server configuration: /home2/starmaker/domains/starmakerwm.com.starmakerwm.com/public_html/.env
+[Sat Jun 21 15:55:50.215029 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 16:00:49.465831 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 16:16:45.909187 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 16:20:24.911398 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 16:52:47.822485 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 17:00:13.127363 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 18:01:51.355935 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 19:13:07.088416 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 20:07:56.827778 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 20:09:56.897009 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 21:38:00.903061 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 22:00:11.863294 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 23:39:18.882966 2025] [access_compat:error] [pid 183905:tid 183931] [remote 91.84.87.137:36074] AH01797: client denied by server configuration: /home2/starmaker/domains
+[Sat Jun 21 23:39:24.503098 2025] [access_compat:error] [pid 118133:tid 118142] [remote 91.84.87.137:60676] AH01797: client denied by server configuration: /home2/starmaker/domains
+[Sat Jun 21 23:39:24.524639 2025] [access_compat:error] [pid 118133:tid 118154] [remote 91.84.87.137:60676] AH01797: client denied by server configuration: /home2/starmaker/domains
+[Sun Jun 22 00:00:09.631663 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 22 00:00:10.938684 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 22 00:13:08.189029 2025] [ssl:warn] [pid 622786:tid 622786] AH01909: www.starmakerwm.com.starmakerwm.com:443:0 server certificate does NOT include an ID which matches the server name
