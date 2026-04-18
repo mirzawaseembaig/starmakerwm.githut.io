@@ -4,3 +4,5 @@ this is my new Project file about the starmakerwm about music track , online sto
 Author : Mirza waseem Baig 
 owner of starmakerwm.com 
 developer ,Hi tech developer waseem baig
+git config--global user.name "my name"~ % git config -- global user.name " mirzawaseembaig/starmakerwm.com
+~% git config -- global user.email " bluemoon132@gmail.com
