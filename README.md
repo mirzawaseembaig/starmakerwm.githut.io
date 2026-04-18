@@ -9,3 +9,21 @@ git config--global user.name "my name"~ % git config -- global user.name " mirza
 admin starmakerwm.com " www.starmakerwm.com "
 
 ~ % git config --list 
+ad # 2 ca-app-pub-2137218144171359/4612252094
+
+app open Banner ; ca-app-pub-2137218144171359/6494204276
+
+ca-app-pub-2137218144171359/3125804901
+
+interstial: ca-app-pub-2137218144171359/3125804901
+
+My first banner
+ca-app-pub-2137218144171359/4319901654
+
+Native advance 5
+ca-app-pub-2137218144171359/6073006563
+
+
+https://www.appcreator24.com/app3507237-3s8q0a
+
+https://mirzawaseembaig.blogspot.com/
