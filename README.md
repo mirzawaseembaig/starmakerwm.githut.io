@@ -12,7 +12,16 @@ admin starmakerwm.com " www.starmakerwm.com "
 https://wordpress-4jtpt.wasmer.app/
 https://www.starmakerwm.com/
 demo introducing for game and win the Smwm Luckydraw Promotion play its free for you
-https://tfmzsufju7.ailandingpage.ai/
-https://tfmzsufju7.ailandingpage.ai/
+1- https://tfmzsufju7.ailandingpage.ai/
+2- 2- Smwm Lucky draw Promotion link 
+ 
+https://tfmzsufju7.ailandingpage.ai
+3- link advance 
+https://tfmzsufju7.ailandingpage.ai
+4-
+
+https://tfmzsufju7.ailandingpage.ai
+
+https://tfmzsufju7.ailandingpage.ai
 
 Smwm Lucky draw Promotion link 
