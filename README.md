@@ -9,7 +9,10 @@ git config--global user.name "my name"~ % git config -- global user.name " mirza
 admin starmakerwm.com " www.starmakerwm.com "
 
 ~ % git config --list 
+https://wordpress-4jtpt.wasmer.app/
+https://www.starmakerwm.com/
+demo introducing for game and win the Smwm Luckydraw Promotion play its free for you
+https://tfmzsufju7.ailandingpage.ai/
+https://tfmzsufju7.ailandingpage.ai/
 
-
-
-
+Smwm Lucky draw Promotion link 
