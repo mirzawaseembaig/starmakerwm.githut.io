@@ -7,7 +7,7 @@ developer ,Hi tech developer waseem baig
 git config--global user.name "my name"~ % git config -- global user.name " mirzawaseembaig/starmakerwm.com
 ~% git config -- global user.email " bluemoon132@gmail.com
 admin starmakerwm.com " www.starmakerwm.com "
-
+https://wordpress-4jtpt.wasmer.app/
 ~ % git config --list 
 https://wordpress-4jtpt.wasmer.app/
 
