@@ -46,19 +46,19 @@ Create 3 ad units (one for each ad placement):
 - Click **Ad Units** → **Create ad unit**
 - Name: `Top Banner Ad`
 - Format: **Banner** (728x90) or **Auto**
-- Copy your **Ad Unit ID** (looks like: `ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx`)
+- Copy your **Ad Unit ID** (looks like: ca-app-pub-2137218144171359/5109017751)
 
 **For Ad #2 (Rectangle):**
 - Click **Create ad unit** again
 - Name: `Rectangle Ad`
 - Format: **Rectangle** (300x250)
-- Copy your **Ad Unit ID**
+- Copy your **Ad Unit ID**ca-app-pub-2137218144171359/3300052579
 
 **For Ad #3 (Bottom Banner):**
 - Click **Create ad unit** again
 - Name: `Bottom Banner Ad`
 - Format: **Banner** or **Auto**
-- Copy your **Ad Unit ID**
+- Copy your **Ad Unit ID**ca-app-pub-2137218144171359/8995232382
 
 ### Step 4: Get Your Publisher ID
 - On AdMob dashboard, find your **Publisher ID**
@@ -70,7 +70,8 @@ Create 3 ad units (one for each ad placement):
 
 ### Your codes to collect:
 ```
-Publisher ID:        ca-pub-________________
+Publisher ID:        ca-pub-ca-app-pub-2137218144171359~7735181090
+                                ________________
 Ad Slot ID #1:       ______________________
 Ad Slot ID #2:       ______________________
 Ad Slot ID #3:       ______________________
